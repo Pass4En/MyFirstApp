@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My First App</string>
+    <string name="question_text">Putrajaya is the capital
+        of Malaysia</string>
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="correct_toast">Correct!</string>
+    <string name="incorrect_toast">Incorrect!</string>
+</resources>
