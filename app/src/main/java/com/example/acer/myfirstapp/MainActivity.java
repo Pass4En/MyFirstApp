@@ -34,5 +34,10 @@ public class MainActivity extends AppCompatActivity {
                         Toast.LENGTH_SHORT).show();// Does nothing yet, but soon!
             }
         });
+
+        public void TestUpload(){
+        int i=1+1;
     }
+    }
+
 }
