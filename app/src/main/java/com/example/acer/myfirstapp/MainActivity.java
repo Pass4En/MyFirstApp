@@ -35,9 +35,7 @@ public class MainActivity extends AppCompatActivity {
             }
         });
 
-        public void TestUpload(){
-        int i=1+1;
-    }
+      
     }
 
 }
