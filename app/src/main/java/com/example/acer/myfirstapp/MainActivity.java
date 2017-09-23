@@ -32,6 +32,8 @@ public class MainActivity extends AppCompatActivity {
                 Toast.makeText(MainActivity.this,
                         R.string.correct_toast,
                         Toast.LENGTH_SHORT).show();// Does nothing yet, but soon!
+                        int i;
+
             }
         });
 
